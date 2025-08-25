@@ -183,7 +183,7 @@ This is a simple React app that demonstrates how to use the provided API to fetc
 Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/api-feed-example.git
+git clone https://github.com/your-username/gov_glance_front_end_examples.git
 ```
 
 ### 2. Navigate to the project directory
