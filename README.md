@@ -189,7 +189,7 @@ git clone https://github.com/your-username/gov_glance_front_end_examples.git
 ### 2. Navigate to the project directory
 
 ```bash
-cd api-feed-example
+cd GovGlanceAPIExample
 ```
 
 ### 3. Install dependencies
