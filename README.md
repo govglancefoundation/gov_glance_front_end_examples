@@ -213,7 +213,7 @@ The app will be available at `http://localhost:3000` in your browser.
 ## Folder Structure
 
 ```
-api-feed-example/
+GovGlanceAPIExample/
 ├── public/
 │   ├── index.html
 │   └── ...
